@@ -1,10 +1,14 @@
 # Practicum Yandex
-Teste Técnico [DA](https://practicum.yandex.com/data-analyst) - [Instrutor em Análise de Dados](https://praktikum.notion.site/Test-Task-for-Tutors-in-Data-Analysis-5c0a26cc6db04e4d962dcc38520bb8d2)
+Test Task [DA](https://practicum.yandex.com/data-analyst) - [Tutors in Data Analysis](https://praktikum.notion.site/Test-Task-for-Tutors-in-Data-Analysis-5c0a26cc6db04e4d962dcc38520bb8d2)
 
-Teste Técnico [DS](https://practicum.yandex.com/data-scientist) - [Instrutor em Ciência de Dados](https://praktikum.notion.site/Test-Task-for-Tutors-in-Data-Science-e85e23dcbd4040d786c755524729a5da)
+Test Task [DS](https://practicum.yandex.com/data-scientist) - [Tutors in Data Science](https://praktikum.notion.site/Test-Task-for-Tutors-in-Data-Science-e85e23dcbd4040d786c755524729a5da)
 
 
+## Test Results
+[Link Data Analyst](/DA/test-result-data-analyst.ipynb) 
+[Link Data Science](/DS/test-result-data-scientist.ipynb) 
 
+## Questions
 **Task 1. Working with dat**
 
 [movie_metadata.csv](/DA/movie_metadata.csv)
