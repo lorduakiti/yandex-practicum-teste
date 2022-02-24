@@ -4,11 +4,12 @@ Test Task [DA](https://practicum.yandex.com/data-analyst) - [Tutors in Data Anal
 Test Task [DS](https://practicum.yandex.com/data-scientist) - [Tutors in Data Science](https://praktikum.notion.site/Test-Task-for-Tutors-in-Data-Science-e85e23dcbd4040d786c755524729a5da)
 
 
-## Test Results
+## Test Results:
 [Link Data Analyst](/DA/test-result-data-analyst.ipynb) 
+
 [Link Data Science](/DS/test-result-data-scientist.ipynb) 
 
-## Questions
+## Questions:
 **Task 1. Working with dat**
 
 [movie_metadata.csv](/DA/movie_metadata.csv)
