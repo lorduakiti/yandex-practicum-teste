@@ -5,9 +5,9 @@ Test Task [DS](https://practicum.yandex.com/data-scientist) - [Tutors in Data Sc
 
 
 ## Test Results:
-[Link Data Analyst](/DA/test-result-data-analyst.ipynb) 
+[Link Task 1 - Data Analyst](/DA/test-result-data-analyst.ipynb) 
 
-[Link Data Science](/DS/test-result-data-scientist.ipynb) 
+[Link Task 1 - Data Science](/DS/test-result-data-scientist.ipynb) 
 
 ## Questions:
 **Task 1. Working with dat**
